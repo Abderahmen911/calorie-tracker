@@ -1,4 +1,4 @@
-# diet
+# Calorie_tracker
 
 A new Flutter project.
 
